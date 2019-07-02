@@ -20,7 +20,9 @@ public class CadastrodeAlunos extends javax.swing.JFrame {
         initComponents();
     }
 
-    public void NaoPuxou() {
+
+    public void testeErro() {
+
         initComponents();
     }
     /**
