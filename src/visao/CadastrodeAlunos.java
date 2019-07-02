@@ -20,7 +20,7 @@ public class CadastrodeAlunos extends javax.swing.JFrame {
         initComponents();
     }
 
-    public void alunos() {
+    public void testeErro() {
         initComponents();
     }
     /**
